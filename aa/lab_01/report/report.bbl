@@ -1,0 +1,10 @@
+\begin{thebibliography}{1}
+
+\bibitem{levenshtein}
+В.~И. Левенштейн.
+\newblock {\em Двоичные коды с исправлением
+  выпадений, вставок и замещений символов},
+  volume 163, chapter~4, pages 845--848.
+\newblock -- М.: Доклады АН СССР, 1965.
+
+\end{thebibliography}
